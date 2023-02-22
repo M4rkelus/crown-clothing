@@ -16,7 +16,7 @@
 
 - Routing + React-Router
 - Authentication + Firebase + Google sign in
-- React Redux + Reselect + Redux-persist + Redux-thunk For State Management
+- React Redux + Reselect + Redux-persist + Redux-saga For State Management
 - Observer Pattern
 - Firebase Database Storage
 - CSS-In-JS + Styled-Components
