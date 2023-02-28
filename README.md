@@ -20,3 +20,6 @@
 - Observer Pattern
 - Firebase Database Storage
 - CSS-In-JS + Styled-Components
+- Stripe Payment Functionality
+- Serverless Functions
+- Netlify CI Deployment
