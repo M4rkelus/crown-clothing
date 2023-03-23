@@ -5,9 +5,9 @@ import { getCategoriesAndDocuments } from '../../utils/firebase/farebase.utils';
 import {
   fetchCategoriesSuccess,
   fetchCategoriesFailed,
-} from './categories.action';
+} from './category.action';
 
-import { CATEGORIES_ACTION_TYPES } from './categories.types';
+import { CATEGORIES_ACTION_TYPES } from './category.types';
 
 export function* fetchCategoriesAsync() {
   try {
